@@ -109,12 +109,14 @@ npm start
 
 ## 📷 Screenshots
 
-Add screenshots of:
+### Home Page
+![Home](screenshots/home.png)
 
-- Home Page
-- Chat Interface
-- AI Response
-- Backend Running
+### Chat Interface
+![Chat](screenshots/chat.png)
+
+### AI Response
+![Response](screenshots/response.png)
 
 ---
 
